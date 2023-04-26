@@ -115,3 +115,36 @@ footer{
     display: flex;
     margin-left: 720px;
 }
+input{
+    height: 50px;
+    width: 400px;
+}
+.lo{
+    color: #d72300;
+}
+.place{
+    background-color: #fff;
+    border-radius: 10px;
+    width: 400px;
+}
+.place :hover{
+    border-color: #d72300;
+}
+.h1{
+    font-size: 20px;
+    margin-left: 20px;
+    padding-top: 20px;
+    font-weight: 900;
+}
+.h2{
+    font-size: 15px;
+    margin-left: 20px;
+    padding-bottom: 20px;
+
+}
+.p{
+    color: #796e5d;
+    font-size: 15px;
+    margin-left: 20px;
+    font-weight: 800;
+}
